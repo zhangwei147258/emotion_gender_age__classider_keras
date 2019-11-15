@@ -19,7 +19,7 @@ real-time face detection and emotion classification
  
  ## test
  * python image_emotion_gender_age_predict.py
-![result](nets_plot/gender_age_XCEPTION.png)
+![result](test_image/test10_result.jpg)
  
  ## Prerequisites
 -------------
